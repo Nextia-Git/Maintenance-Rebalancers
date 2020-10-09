@@ -1,0 +1,9 @@
+{
+	"id":"maintenence_rebalancers",
+	"name":"Maintenance Rebalancers",
+	"author":"Nextia",
+	"version":"1.0 release",
+	"description":"Adds a few free hullmods that reduce maintenence costs",
+	"gameVersion":"0.9.1a-RC8",
+	"jars":["jars/Maintenance_rebalancers.jar"],
+}
